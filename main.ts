@@ -1,6 +1,4 @@
-import { log } from "console";
-
-let names: string = "John Doe";
+// let names: string = "John Doe";
 let age: number = 30;
 let price: number = 19.99;
 

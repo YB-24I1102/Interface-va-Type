@@ -1,1 +1,1 @@
-console.log("Bu ketmaydi");
+alert("")
